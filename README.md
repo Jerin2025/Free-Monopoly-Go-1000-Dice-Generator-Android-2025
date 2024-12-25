@@ -5,6 +5,9 @@ Daily Dice Refresh
 Your dice replenish automatically over time. Check your timer to see when you’ll receive the next set.
 Dice Rolls from Events
 
+
+GET LINK = https://allresources.xyz/dicerolls/
+
 Participate in limited-time events, as they often reward dice rolls for completing milestones or tasks.
 Free Rewards Links
 
